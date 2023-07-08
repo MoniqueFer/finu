@@ -1,0 +1,38 @@
+:root {
+--colorlightblue:#17E0FC;
+}
+
+#botao1, #botao2, #botao3 {
+background-color: var(--colorlightblue);
+border: none;
+}
+
+h1 {
+
+color: var(--colorlightblue)
+
+}
+
+#imagem2 {
+margin: 20px;
+width: fit-content;
+height: fit-content;
+border-radius: 25px;
+}
+
+#container_img_icon {
+    background: rgb(23,224,252);
+background: -moz-linear-gradient(90deg, rgba(23,224,252,1) 0%, rgba(0,224,255,0.05368084733893552) 85%);
+background: -webkit-linear-gradient(90deg, rgba(23,224,252,1) 0%, rgba(0,224,255,0.05368084733893552) 85%);
+background: linear-gradient(90deg, rgba(23,224,252,1) 0%, rgba(0,224,255,0.05368084733893552) 85%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17e0fc",endColorstr="#00e0ff",GradientType=1);
+min-height: 50vw;
+max-width: 100%;
+
+}
+
+#gplay-button {
+    width: fit-content;
+    height: fit-content;
+}
+
